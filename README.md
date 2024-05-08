@@ -1,4 +1,7 @@
 #  English Industry
+
+![industry](https://github.com/sameem92/EnglishIndustry/assets/140856509/4401da53-6645-4e60-9a4e-5f0b5fdbc6a5)
+
 ![1](https://github.com/sameem92/EnglishIndustry/assets/140856509/fb846b02-ffa2-4126-b596-cd00c4601115)
 
 ![2](https://github.com/sameem92/EnglishIndustry/assets/140856509/df6bf916-d9a0-4853-b4da-7ddc78335436)
