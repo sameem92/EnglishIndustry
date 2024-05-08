@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "54010591596",
+    "project_id": "producer-family",
+    "storage_bucket": "producer-family.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54010591596:android:f3bd5c615ea0ca3f86db49",
+        "android_client_info": {
+          "package_name": "com.nourah.producer_family_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "54010591596-8nro0n27krj1pj4oravlurr1kk09q478.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nourah.producer_family_app",
+            "certificate_hash": "310932cf80a0e75b7e0bd3181e8259448ecf9f6d"
+          }
+        },
+        {
+          "client_id": "54010591596-b5di4o2h697pn3ql5sitn62i5vs5cvoi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6dfN0-OthsbyayqzYEEiXLzeio9BuRZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "54010591596-b5di4o2h697pn3ql5sitn62i5vs5cvoi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "54010591596-aunhkckju2ir4p3j9buein2ba4qchmvd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nourah.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
